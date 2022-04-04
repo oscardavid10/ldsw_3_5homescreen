@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
 
 
     return MaterialApp(
-      title: 'Catalogo de peliculas',
+      title: 'Catálogo de películas',
       home: Scaffold(
           appBar: AppBar(
             title: Text('Catálogo de películas'),
